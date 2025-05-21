@@ -1,4 +1,4 @@
-# 📄 FGMSF
+# 📚 FGMSF
 Multi-Stage Deep Fusion Clustering with Manifold Preservation and Adaptive Gating for Robust Single-Cell Multi-Omics Integration
 
 # ✍️ Authors
@@ -12,4 +12,11 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 You are free to share and adapt the material with appropriate credit.
 
 # 🧭 Version History
-- v1.0 – First preprint version released on 2025.5.21
+- v1.0 – First preprint version released on 2025.05.21
+
+# 📄 Code and Data
+
+# 📥 PDF Download
+
+# 🧪 Citation
+Please cite this work as:
