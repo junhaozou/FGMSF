@@ -23,7 +23,7 @@ You are free to share and adapt the material with appropriate credit.
 # 📄 Code and Data
 
 # 📥 PDF Download
-[📄 Click here to download the paper](./FGMSF.pdf)
+[📄 Click here to download the paper](./scMAG.pdf)
 
 # 🧪 Citation
 Please cite this work as:
