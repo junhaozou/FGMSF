@@ -1,5 +1,5 @@
-# 📚 FGMSF
-Multi-Stage Deep Fusion Clustering with Manifold Preservation and Adaptive Gating for Robust Single-Cell Multi-Omics Integration
+# 📚 scMAG
+scMAG：Integrating Single-Cell Multi-Omics Data via Multi-Stage Deep Fusion with Manifold-Aware Gating
 
 # ✍️ Authors
 Junhao Zou, School of Automation, Harbin University of Science and Technology.
